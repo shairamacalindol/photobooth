@@ -11,7 +11,7 @@ let stripLayout = 'filmstrip';
 let polaroidFrameColor = 'white';
 let polaroidCaption = '';
 let polaroidStyle = 'classic';
-
+  
 // Some browsers show user-facing camera as mirrored by default.
 // Keep this true to force a natural (non-mirrored) live preview.
 const FRONT_CAMERA_PREVIEW_IS_MIRRORED = true;

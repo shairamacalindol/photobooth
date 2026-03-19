@@ -415,7 +415,7 @@
                         <button type="button" class="strip-slider-nav" onclick="scrollStripLayouts(1)" aria-label="Next strip layouts">▶</button>
                     </div>
                 </div>
-                
+                 
                 <div id="previewStrip" class="preview-full-strip preview-filmstrip">
                     <!-- Dynamic photos will be added here -->
                 </div>

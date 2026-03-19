@@ -7,7 +7,7 @@
     --light-pink: #ffb3ba;
     --dark-red: #6b0f1f;
 }
-
+ 
 body {
     font-family: 'Georgia', serif;
     background: linear-gradient(135deg, #2c0a0e 0%, #8b1a1a 40%, #c41e3a 100%);

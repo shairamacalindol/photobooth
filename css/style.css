@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+ 
 body {
     font-family: 'Courier New', monospace;
     background: linear-gradient(45deg, #ff6b35 0%, #f7931e 25%, #fdb833 50%, #f37021 75%, #ff6b35 100%);
